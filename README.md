@@ -16,18 +16,23 @@ You can click the Preview link to take a look at your changes.
 # [DESAFIO CORDEL MODERNO](https://brunosilva03.github.io/projeto-cordel/)
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/78625466/218089415-ed741c1f-b819-467d-a2ff-55aca1948a58.gif)
 
+
 # [TIMES BRASILEIROS NA LIBERTADORES DA AMÉRICA](https://brunosilva03.github.io/Times-BR-Na-Libertadores-da-America/)
 ![times br na Liberta](https://user-images.githubusercontent.com/78625466/218089378-ed012e66-c906-4074-8085-7af2779507f0.gif)
 
+
 # [DESAFIO ANDROID](https://brunosilva03.github.io/desafio-android-v2/)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/78625466/218092084-ca910bda-d0f5-4c23-9fa9-6f0aaac5f9b9.gif)
+
 
 # [CALCULADORA JAVASCRIPT](https://brunosilva03.github.io/Calculadora-JavaScript/)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78625466/232226285-06c3be15-38a8-4b50-8a91-a49df77eb5cd.gif)
 
 
+
 # [LISTA DE TAREFAS](https://brunosilva03.github.io/Lista-Tarefas/)
 ![lista-tarefas](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/f380ea92-28f7-4b55-8587-8a9cfb2e2c4a)
+
 
 
 # [SELEÇÕES CAMPEÃS DO MUNDO](https://brunosilva03.github.io/Campeoes-Copa-do-Mundo/)
