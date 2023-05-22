@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 # [LISTA DE TAREFAS](https://brunosilva03.github.io/Lista-Tarefas/)
 ![lista-tarefas](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/f380ea92-28f7-4b55-8587-8a9cfb2e2c4a)
 
+# [MAIS UMA LISTA DE TAREFAS](https://brunosilva03.github.io/listatarefas2/)
+![ezgif com-gif-maker (6)](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/8ece01dc-126d-41e3-aaef-ea283eac03b1)
 
 
 # [SELEÇÕES CAMPEÃS DO MUNDO](https://brunosilva03.github.io/Campeoes-Copa-do-Mundo/)
