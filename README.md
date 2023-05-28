@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 # [CALCULADORA JAVASCRIPT](https://brunosilva03.github.io/Calculadora-JavaScript/)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78625466/232226285-06c3be15-38a8-4b50-8a91-a49df77eb5cd.gif)
 
+# [RELÓGIO DIGITAL](https://brunosilva03.github.io/Relogio-Digital/)
+![relógio](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/efe5a305-676e-4e1c-8d56-576d659a8d06)
 
 
 # [LISTA DE TAREFAS](https://brunosilva03.github.io/Lista-Tarefas/)
