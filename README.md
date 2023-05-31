@@ -38,7 +38,8 @@ You can click the Preview link to take a look at your changes.
 # [MAIS UMA LISTA DE TAREFAS](https://brunosilva03.github.io/listatarefas2/)
 ![ezgif com-gif-maker (6)](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/8ece01dc-126d-41e3-aaef-ea283eac03b1)
 
+# [CRONÔMETRO](https://brunosilva03.github.io/Cronometro/)
+![ezgif com-gif-maker (8)](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/a2bc0245-63f0-432c-8938-3dc824e59559)
 
-# [SELEÇÕES CAMPEÃS DO MUNDO](https://brunosilva03.github.io/Campeoes-Copa-do-Mundo/)
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78625466/218089531-a450a743-9b54-4187-ad2e-1bd452dce168.gif)
+
 
