@@ -13,13 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 # Alguns de meus sites:
 
-# [DESAFIO CORDEL MODERNO](https://brunosilva03.github.io/projeto-cordel/)
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/78625466/218089415-ed741c1f-b819-467d-a2ff-55aca1948a58.gif)
-
+# [CRUD COMPLETO](https://brunosilva03.github.io/CRUD/)
+![CRUD Completo](https://github.com/BrunoSilva03/CRUD/assets/78625466/ee8e09c4-f39c-440d-82ba-41d7d466e216)
 
 # [TIMES BRASILEIROS NA LIBERTADORES DA AMÉRICA](https://brunosilva03.github.io/Times-BR-Na-Libertadores-da-America/)
 ![times br na Liberta](https://user-images.githubusercontent.com/78625466/218089378-ed012e66-c906-4074-8085-7af2779507f0.gif)
 
+# [DESAFIO CORDEL MODERNO](https://brunosilva03.github.io/projeto-cordel/)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/78625466/218089415-ed741c1f-b819-467d-a2ff-55aca1948a58.gif)
 
 # [DESAFIO ANDROID](https://brunosilva03.github.io/desafio-android-v2/)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/78625466/218092084-ca910bda-d0f5-4c23-9fa9-6f0aaac5f9b9.gif)
@@ -27,9 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 # [CALCULADORA JAVASCRIPT](https://brunosilva03.github.io/Calculadora-JavaScript/)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78625466/232226285-06c3be15-38a8-4b50-8a91-a49df77eb5cd.gif)
-
-# [RELÓGIO DIGITAL](https://brunosilva03.github.io/Relogio-Digital/)
-![relógio](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/efe5a305-676e-4e1c-8d56-576d659a8d06)
 
 
 # [LISTA DE TAREFAS](https://brunosilva03.github.io/Lista-Tarefas/)
