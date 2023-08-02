@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrunoSilva03  o que vou fazendo vou postando aqui, se quiser ver os principais projetos veja @BrunoSilva05
--  👨‍💻 Gosto de me aprofundar em Java, C#, Spring Boot, HTML, CSS,  Banco de Dados e  Segurança da Informação
+-  👨‍💻 Gosto de me aprofundar em Java, C#, JavaScript, Spring Boot, HTML, CSS,  Banco de Dados e  Segurança da Informação
 - 📫 Para chegar até mim aqui está o meu email: brunosilvaprogramador5@gmail.com ou bruno5ssilva02@gmail.com
 - 🔵 Meu linkedin é  https://www.linkedin.com/in/bruno-silva-rodrigues-62b6a51b0
 - 🔥 Fique a vontade para fuçar e me dar dicas
@@ -32,6 +32,10 @@ You can click the Preview link to take a look at your changes.
 
 # [LISTA DE TAREFAS](https://brunosilva03.github.io/Lista-Tarefas/)
 ![lista-tarefas](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/f380ea92-28f7-4b55-8587-8a9cfb2e2c4a)
+
+# [CHECKLIST BÁSICO](https://brunosilva03.github.io/jquery-lista-2/)
+![ezgif com-gif-maker (12)](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/290dc1dc-2639-432d-8456-66fb334bc093)
+
 
 # [MAIS UMA LISTA DE TAREFAS](https://brunosilva03.github.io/listatarefas2/)
 ![ezgif com-gif-maker (6)](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/8ece01dc-126d-41e3-aaef-ea283eac03b1)
