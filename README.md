@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrunoSilva03  o que vou fazendo vou postando aqui, se quiser ver os principais projetos veja @BrunoSilva05
--  👨‍💻 Gosto de me aprofundar em Java, C#, JavaScript, Spring Boot, HTML, CSS,  Banco de Dados e  Segurança da Informação
+-  👨‍💻 Gosto de me aprofundar em Java, C#, JavaScript, Spring Boot, HTML, CSS, React,  Banco de Dados e  Segurança da Informação
 - 📫 Para chegar até mim aqui está o meu email: brunosilvaprogramador5@gmail.com ou bruno5ssilva02@gmail.com
 - 🔵 Meu linkedin é  https://www.linkedin.com/in/bruno-silva-rodrigues-62b6a51b0
 - 🔥 Fique a vontade para fuçar e me dar dicas
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 # [CRUD COMPLETO](https://brunosilva03.github.io/CRUD/)
 ![CRUD Completo](https://github.com/BrunoSilva03/CRUD/assets/78625466/ee8e09c4-f39c-440d-82ba-41d7d466e216)
 
-# [COSTS EM REACT - CURSO HORA DE CODAR]()
+# [COSTS EM REACT - CURSO HORA DE CODAR](https://github.com/BrunoSilva03/Costs)
 ![ezgif com-gif-maker (14)](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/a44108b3-4a6d-427e-82d7-cff9381cdaeb)
 
 
