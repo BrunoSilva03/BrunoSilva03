@@ -47,11 +47,7 @@ You can click the Preview link to take a look at your changes.
 # [MAIS UMA LISTA DE TAREFAS](https://brunosilva03.github.io/listatarefas2/)
 ![ezgif com-gif-maker (6)](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/8ece01dc-126d-41e3-aaef-ea283eac03b1)
 
-# [CRONÔMETRO](https://brunosilva03.github.io/Cronometro/)
-![ezgif com-gif-maker (8)](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/a2bc0245-63f0-432c-8938-3dc824e59559)
 
-# [CRONÔMETRO DARK MODE](https://brunosilva03.github.io/Cronometro-Dark-Mode/)
-![cronometro dark e light](https://github.com/BrunoSilva03/BrunoSilva03/assets/78625466/282d0ba8-914d-489d-8af0-8c62fc4a7f71)
 
 
 
