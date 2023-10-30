@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 # Alguns de meus sites:
 
+# projetozoo
+![ezgif com-gif-maker (15)](https://github.com/BrunoSilva03/projetos-react/assets/78625466/ef59cbed-3d38-4bf8-b422-57c96af730b1)
+
 # [CRUD COMPLETO](https://brunosilva03.github.io/CRUD/)
 ![CRUD Completo](https://github.com/BrunoSilva03/CRUD/assets/78625466/ee8e09c4-f39c-440d-82ba-41d7d466e216)
 
